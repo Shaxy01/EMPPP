@@ -32,7 +32,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  String selectedCountry = 'Wielka Brytaniaa';
+  String selectedCountry = 'Wielka Brytania';
   String selectedCity = 'Londyn';
   Map<String, dynamic>? weatherData;
   bool isLoading = false;
